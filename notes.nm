@@ -1,6 +1,0 @@
-## Setup PYTHON ENV
- # USING UV PACAKAGE MANAGER
-    - uv --version
-    - uv init
-    - uv venv (creates virtual env)
-    - .venv\Scripts\activate (Activate virtual environment)
