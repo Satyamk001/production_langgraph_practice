@@ -6,3 +6,6 @@ langchain-google-genai
 python-dotenv
 pydantic
 langsmith
+langchain_chroma 
+langchain_text_splitters 
+google-genai
