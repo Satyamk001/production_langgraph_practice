@@ -119,7 +119,7 @@ def contextual_compression():
     
     compressor_retriever = ContextualCompressionRetriever(
         compressor=compressor,
-        base_retriever=vector_store.as_retriever(search_kwargs={"k": 3})
+        base_retriever=vector_store.as_retriever(search_kwargs={"k": 2})
     )
     
     query = "What frameworks exist for building LLM applications?"
